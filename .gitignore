@@ -1,1 +1,6 @@
+### macOS files ###
 .DS_Store
+
+### Nova files ###
+.nova
+Configuration.json
